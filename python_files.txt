@@ -1,0 +1,1501 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 60C5-99F1
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend
+
+19-07-2026  10:41             3,092 ai_core.py
+19-07-2026  10:41               929 ai_settings.py
+19-07-2026  10:22               543 memory.py
+               3 File(s)          4,564 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv
+
+19-07-2026  10:41             2,757 main.py
+               1 File(s)          2,757 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages
+
+19-07-2026  09:50           165,012 typing_extensions.py
+               1 File(s)        165,012 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\annotated_doc
+
+19-07-2026  09:51             1,075 main.py
+19-07-2026  09:51                52 __init__.py
+               2 File(s)          1,127 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\annotated_types
+
+19-07-2026  09:51             6,421 test_cases.py
+19-07-2026  09:51            13,819 __init__.py
+               2 File(s)         20,240 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\anyio
+
+19-07-2026  09:51            19,265 from_thread.py
+19-07-2026  09:51            11,797 functools.py
+19-07-2026  09:51            16,168 itertools.py
+19-07-2026  09:51             6,280 lowlevel.py
+19-07-2026  09:51            13,609 pytest_plugin.py
+19-07-2026  09:51             7,100 to_interpreter.py
+19-07-2026  09:51             9,848 to_process.py
+19-07-2026  09:51             2,750 to_thread.py
+19-07-2026  09:51             6,405 __init__.py
+               9 File(s)         93,222 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\anyio\abc
+
+19-07-2026  09:51            10,681 _eventloop.py
+19-07-2026  09:51               783 _resources.py
+19-07-2026  09:51            13,124 _sockets.py
+19-07-2026  09:51             7,582 _streams.py
+19-07-2026  09:51             2,067 _subprocesses.py
+19-07-2026  09:51             6,642 _tasks.py
+19-07-2026  09:51             2,034 _testing.py
+19-07-2026  09:51             2,869 __init__.py
+               8 File(s)         45,782 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\anyio\streams
+
+19-07-2026  09:51             6,746 buffered.py
+19-07-2026  09:51             4,524 file.py
+19-07-2026  09:51            10,776 memory.py
+19-07-2026  09:51             4,486 stapled.py
+19-07-2026  09:51             5,765 text.py
+19-07-2026  09:51            15,801 tls.py
+19-07-2026  09:51                 0 __init__.py
+               7 File(s)         48,098 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\anyio\_backends
+
+19-07-2026  09:51           104,400 _asyncio.py
+19-07-2026  09:51            45,583 _trio.py
+19-07-2026  09:51                 0 __init__.py
+               3 File(s)        149,983 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\anyio\_core
+
+19-07-2026  09:51             5,626 _asyncio_selector_thread.py
+19-07-2026  09:51             7,215 _contextmanagers.py
+19-07-2026  09:51             6,658 _eventloop.py
+19-07-2026  09:51             4,936 _exceptions.py
+19-07-2026  09:51            31,358 _fileio.py
+19-07-2026  09:51               435 _resources.py
+19-07-2026  09:51             1,016 _signals.py
+19-07-2026  09:51            35,288 _sockets.py
+19-07-2026  09:51             1,806 _streams.py
+19-07-2026  09:51             7,923 _subprocesses.py
+19-07-2026  09:51            21,591 _synchronization.py
+19-07-2026  09:51            13,126 _tasks.py
+19-07-2026  09:51            19,624 _tempfile.py
+19-07-2026  09:51             2,340 _testing.py
+19-07-2026  09:51             2,508 _typedattr.py
+19-07-2026  09:51                 0 __init__.py
+              16 File(s)        161,450 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\click
+
+19-07-2026  09:51           140,616 core.py
+19-07-2026  09:51            19,709 decorators.py
+19-07-2026  09:51            11,862 exceptions.py
+19-07-2026  09:51            10,444 formatting.py
+19-07-2026  09:51             1,923 globals.py
+19-07-2026  09:51            19,052 parser.py
+19-07-2026  09:51            22,618 shell_completion.py
+19-07-2026  09:51            33,213 termui.py
+19-07-2026  09:51            26,458 testing.py
+19-07-2026  09:51            44,788 types.py
+19-07-2026  09:51            20,942 utils.py
+19-07-2026  09:51            18,879 _compat.py
+19-07-2026  09:51            31,730 _termui_impl.py
+19-07-2026  09:51             6,270 _textwrap.py
+19-07-2026  09:51               996 _utils.py
+19-07-2026  09:51             8,543 _winconsole.py
+19-07-2026  09:51             4,634 __init__.py
+              17 File(s)        422,677 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\colorama
+
+19-07-2026  09:51             2,522 ansi.py
+19-07-2026  09:51            11,128 ansitowin32.py
+19-07-2026  09:51             3,325 initialise.py
+19-07-2026  09:51             6,181 win32.py
+19-07-2026  09:51             7,134 winterm.py
+19-07-2026  09:51               266 __init__.py
+               6 File(s)         30,556 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\colorama\tests
+
+19-07-2026  09:51            10,678 ansitowin32_test.py
+19-07-2026  09:51             2,839 ansi_test.py
+19-07-2026  09:51             6,741 initialise_test.py
+19-07-2026  09:51             1,866 isatty_test.py
+19-07-2026  09:51             1,079 utils.py
+19-07-2026  09:51             3,709 winterm_test.py
+19-07-2026  09:51                75 __init__.py
+               7 File(s)         26,987 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\fastapi
+
+19-07-2026  09:51           183,452 applications.py
+19-07-2026  09:51             1,820 background.py
+19-07-2026  09:51               418 cli.py
+19-07-2026  09:51             1,489 concurrency.py
+19-07-2026  09:51             5,321 datastructures.py
+19-07-2026  09:51            11,603 encoders.py
+19-07-2026  09:51             7,453 exceptions.py
+19-07-2026  09:51             1,275 exception_handlers.py
+19-07-2026  09:51                54 logger.py
+19-07-2026  09:51            26,205 params.py
+19-07-2026  09:51            69,596 param_functions.py
+19-07-2026  09:51               142 requests.py
+19-07-2026  09:51             4,144 responses.py
+19-07-2026  09:51           253,721 routing.py
+19-07-2026  09:51             6,848 sse.py
+19-07-2026  09:51                69 staticfiles.py
+19-07-2026  09:51                76 templating.py
+19-07-2026  09:51                66 testclient.py
+19-07-2026  09:51               438 types.py
+19-07-2026  09:51             4,341 utils.py
+19-07-2026  09:51               222 websockets.py
+19-07-2026  09:51             1,081 __init__.py
+19-07-2026  09:51                37 __main__.py
+              23 File(s)        579,871 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\fastapi\dependencies
+
+19-07-2026  09:51             7,250 models.py
+19-07-2026  09:51            39,728 utils.py
+19-07-2026  09:51                 0 __init__.py
+               3 File(s)         46,978 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\fastapi\middleware
+
+19-07-2026  09:51               637 asyncexitstack.py
+19-07-2026  09:51                79 cors.py
+19-07-2026  09:51                79 gzip.py
+19-07-2026  09:51               115 httpsredirect.py
+19-07-2026  09:51               109 trustedhost.py
+19-07-2026  09:51               107 wsgi.py
+19-07-2026  09:51                58 __init__.py
+               7 File(s)          1,184 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\fastapi\openapi
+
+19-07-2026  09:51               153 constants.py
+19-07-2026  09:51            12,425 docs.py
+19-07-2026  09:51            14,608 models.py
+19-07-2026  09:51            26,916 utils.py
+19-07-2026  09:51                 0 __init__.py
+               5 File(s)         54,102 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\fastapi\security
+
+19-07-2026  09:51             9,793 api_key.py
+19-07-2026  09:51               141 base.py
+19-07-2026  09:51            13,410 http.py
+19-07-2026  09:51            24,178 oauth2.py
+19-07-2026  09:51             3,136 open_id_connect_url.py
+19-07-2026  09:51               261 utils.py
+19-07-2026  09:51               881 __init__.py
+               7 File(s)         51,800 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\fastapi\_compat
+
+19-07-2026  09:51             7,118 shared.py
+19-07-2026  09:51            17,601 v2.py
+19-07-2026  09:51             2,095 __init__.py
+               3 File(s)         26,814 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\greenlet
+
+19-07-2026  10:21             1,504 __init__.py
+               1 File(s)          1,504 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\greenlet\platform
+
+19-07-2026  10:21                 0 __init__.py
+               1 File(s)              0 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\greenlet\tests
+
+19-07-2026  10:21             1,310 fail_clearing_run_switches.py
+19-07-2026  10:21             1,018 fail_cpp_exception.py
+19-07-2026  10:21             2,039 fail_initialstub_already_started.py
+19-07-2026  10:21               553 fail_slp_switch.py
+19-07-2026  10:21             1,000 fail_switch_three_greenlets.py
+19-07-2026  10:21             1,340 fail_switch_three_greenlets2.py
+19-07-2026  10:21               858 fail_switch_two_greenlets.py
+19-07-2026  10:21            13,976 leakcheck.py
+19-07-2026  10:21             9,846 test_contextvars.py
+19-07-2026  10:21             3,255 test_cpp.py
+19-07-2026  10:21             4,961 test_extension_interface.py
+19-07-2026  10:21             4,856 test_gc.py
+19-07-2026  10:21             1,299 test_generator.py
+19-07-2026  10:21             3,886 test_generator_nested.py
+19-07-2026  10:21            53,965 test_greenlet.py
+19-07-2026  10:21             8,564 test_greenlet_trash.py
+19-07-2026  10:21            33,886 test_interpreter_shutdown.py
+19-07-2026  10:21            20,983 test_leaks.py
+19-07-2026  10:21               465 test_stack_saved.py
+19-07-2026  10:21             3,840 test_throw.py
+19-07-2026  10:21             8,851 test_tracing.py
+19-07-2026  10:21             1,574 test_version.py
+19-07-2026  10:21               918 test_weakref.py
+19-07-2026  10:21             9,984 __init__.py
+              24 File(s)        193,227 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\h11
+
+19-07-2026  09:50             4,815 _abnf.py
+19-07-2026  09:50            26,863 _connection.py
+19-07-2026  09:50            11,792 _events.py
+19-07-2026  09:50            10,412 _headers.py
+19-07-2026  09:50             8,590 _readers.py
+19-07-2026  09:50             5,252 _receivebuffer.py
+19-07-2026  09:50            13,231 _state.py
+19-07-2026  09:50             4,888 _util.py
+19-07-2026  09:50               686 _version.py
+19-07-2026  09:50             5,081 _writers.py
+19-07-2026  09:50             1,507 __init__.py
+              11 File(s)         93,117 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\idna
+
+19-07-2026  09:50             4,139 cli.py
+19-07-2026  09:50             5,040 codec.py
+19-07-2026  09:50             1,353 compat.py
+19-07-2026  09:50            24,685 core.py
+19-07-2026  09:50            44,862 idnadata.py
+19-07-2026  09:50             1,851 intranges.py
+19-07-2026  09:50                21 package_data.py
+19-07-2026  09:50           234,325 uts46data.py
+19-07-2026  09:50               868 __init__.py
+19-07-2026  09:50                83 __main__.py
+              10 File(s)        317,227 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip
+
+18-07-2026  13:45               355 __init__.py
+18-07-2026  13:45               874 __main__.py
+18-07-2026  13:45             1,451 __pip-runner__.py
+               3 File(s)          2,680 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal
+
+18-07-2026  13:45            21,911 build_env.py
+18-07-2026  13:45            10,345 cache.py
+18-07-2026  13:45            14,568 configuration.py
+18-07-2026  13:45            32,166 exceptions.py
+18-07-2026  13:45               338 main.py
+18-07-2026  13:45             4,555 pyproject.py
+18-07-2026  13:45             8,097 self_outdated_check.py
+18-07-2026  13:45             9,010 wheel_builder.py
+18-07-2026  13:45               511 __init__.py
+               9 File(s)        101,501 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\cli
+
+18-07-2026  13:45             7,193 autocompletion.py
+18-07-2026  13:45             9,579 base_command.py
+18-07-2026  13:45            37,593 cmdoptions.py
+18-07-2026  13:45               817 command_context.py
+18-07-2026  13:45             7,094 index_command.py
+18-07-2026  13:45             3,137 main.py
+18-07-2026  13:45             4,403 main_parser.py
+18-07-2026  13:45            13,827 parser.py
+18-07-2026  13:45             4,706 progress_bars.py
+18-07-2026  13:45            17,484 req_command.py
+18-07-2026  13:45             7,362 spinners.py
+18-07-2026  13:45               116 status_codes.py
+18-07-2026  13:45               131 __init__.py
+              13 File(s)        113,442 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\commands
+
+18-07-2026  13:45             9,142 cache.py
+18-07-2026  13:45             2,244 check.py
+18-07-2026  13:45             4,565 completion.py
+18-07-2026  13:45            10,105 configuration.py
+18-07-2026  13:45             6,543 debug.py
+18-07-2026  13:45             5,178 download.py
+18-07-2026  13:45             3,099 freeze.py
+18-07-2026  13:45             1,679 hash.py
+18-07-2026  13:45             1,108 help.py
+18-07-2026  13:45             5,514 index.py
+18-07-2026  13:45             3,184 inspect.py
+18-07-2026  13:45            33,733 install.py
+18-07-2026  13:45            13,638 list.py
+18-07-2026  13:45             6,027 lock.py
+18-07-2026  13:45             5,782 search.py
+18-07-2026  13:45             8,066 show.py
+18-07-2026  13:45             3,868 uninstall.py
+18-07-2026  13:45             5,880 wheel.py
+18-07-2026  13:45             4,026 __init__.py
+              19 File(s)        133,381 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\distributions
+
+18-07-2026  13:45             1,830 base.py
+18-07-2026  13:45               929 installed.py
+18-07-2026  13:45             6,627 sdist.py
+18-07-2026  13:45             1,364 wheel.py
+18-07-2026  13:45               858 __init__.py
+               5 File(s)         11,608 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\index
+
+18-07-2026  13:45            16,144 collector.py
+18-07-2026  13:45            41,347 package_finder.py
+18-07-2026  13:45             8,639 sources.py
+18-07-2026  13:45                29 __init__.py
+               4 File(s)         66,159 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\locations
+
+18-07-2026  13:45             2,550 base.py
+18-07-2026  13:45             5,975 _distutils.py
+18-07-2026  13:45             7,779 _sysconfig.py
+18-07-2026  13:45            14,022 __init__.py
+               4 File(s)         30,326 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\metadata
+
+18-07-2026  13:45            25,420 base.py
+18-07-2026  13:45            10,544 pkg_resources.py
+18-07-2026  13:45             2,711 _json.py
+18-07-2026  13:45             5,824 __init__.py
+               4 File(s)         44,499 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\metadata\importlib
+
+18-07-2026  13:45             2,804 _compat.py
+18-07-2026  13:45             8,711 _dists.py
+18-07-2026  13:45             5,333 _envs.py
+18-07-2026  13:45               135 __init__.py
+               4 File(s)         16,983 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\models
+
+18-07-2026  13:45               720 candidate.py
+18-07-2026  13:45               944 direct_url.py
+18-07-2026  13:45             2,471 format_control.py
+18-07-2026  13:45             1,030 index.py
+18-07-2026  13:45             2,846 installation_report.py
+18-07-2026  13:45            21,992 link.py
+18-07-2026  13:45             3,365 release_control.py
+18-07-2026  13:45               558 scheme.py
+18-07-2026  13:45             4,461 search_scope.py
+18-07-2026  13:45             1,503 selection_prefs.py
+18-07-2026  13:45             4,243 target_python.py
+18-07-2026  13:45             2,920 wheel.py
+18-07-2026  13:45                62 __init__.py
+              13 File(s)         47,115 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\network
+
+18-07-2026  13:45            20,846 auth.py
+18-07-2026  13:45             4,862 cache.py
+18-07-2026  13:45            12,625 download.py
+18-07-2026  13:45             7,646 lazy_wheel.py
+18-07-2026  13:45            19,856 session.py
+18-07-2026  13:45             4,091 utils.py
+18-07-2026  13:45             1,830 xmlrpc.py
+18-07-2026  13:45                49 __init__.py
+               8 File(s)         71,805 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\operations
+
+18-07-2026  13:45             5,894 check.py
+18-07-2026  13:45             9,854 freeze.py
+18-07-2026  13:45            29,046 prepare.py
+18-07-2026  13:45                 0 __init__.py
+               4 File(s)         44,794 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\operations\build
+
+18-07-2026  13:45             4,771 build_tracker.py
+18-07-2026  13:45             1,421 metadata.py
+18-07-2026  13:45             1,509 metadata_editable.py
+18-07-2026  13:45             1,136 wheel.py
+18-07-2026  13:45             1,478 wheel_editable.py
+18-07-2026  13:45                 0 __init__.py
+               6 File(s)         10,315 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\operations\install
+
+18-07-2026  13:45            28,614 wheel.py
+18-07-2026  13:45                50 __init__.py
+               2 File(s)         28,664 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\req
+
+18-07-2026  13:45            22,918 constructors.py
+18-07-2026  13:45             1,242 pep723.py
+18-07-2026  13:45             3,145 req_dependency_group.py
+18-07-2026  13:45            20,521 req_file.py
+18-07-2026  13:45            31,845 req_install.py
+18-07-2026  13:45             2,828 req_set.py
+18-07-2026  13:45            24,099 req_uninstall.py
+18-07-2026  13:45             3,041 __init__.py
+               8 File(s)        109,639 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\resolution
+
+18-07-2026  13:45               577 base.py
+18-07-2026  13:45                 0 __init__.py
+               2 File(s)            577 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\resolution\legacy
+
+18-07-2026  13:45            24,061 resolver.py
+18-07-2026  13:45                 0 __init__.py
+               2 File(s)         24,061 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+
+18-07-2026  13:45             5,903 base.py
+18-07-2026  13:45            20,912 candidates.py
+18-07-2026  13:45            36,771 factory.py
+18-07-2026  13:45             6,018 found_candidates.py
+18-07-2026  13:45            12,150 provider.py
+18-07-2026  13:45             3,918 reporter.py
+18-07-2026  13:45             8,239 requirements.py
+18-07-2026  13:45            13,437 resolver.py
+18-07-2026  13:45                 0 __init__.py
+               9 File(s)        107,348 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\utils
+
+18-07-2026  13:45             1,681 appdirs.py
+18-07-2026  13:45             2,514 compat.py
+18-07-2026  13:45             6,630 compatibility_tags.py
+18-07-2026  13:45               868 datetime.py
+18-07-2026  13:45             4,319 deprecation.py
+18-07-2026  13:45             3,363 direct_url_helpers.py
+18-07-2026  13:45             2,459 egg_link.py
+18-07-2026  13:45             3,324 entrypoints.py
+18-07-2026  13:45             6,812 filesystem.py
+18-07-2026  13:45               689 filetypes.py
+18-07-2026  13:45             3,726 glibc.py
+18-07-2026  13:45             5,040 hashes.py
+18-07-2026  13:45            13,414 logging.py
+18-07-2026  13:45            23,704 misc.py
+18-07-2026  13:45             1,601 packaging.py
+18-07-2026  13:45             9,358 pylock.py
+18-07-2026  13:45             1,461 retry.py
+18-07-2026  13:45             8,983 subprocess.py
+18-07-2026  13:45             9,307 temp_dir.py
+18-07-2026  13:45            13,584 unpacking.py
+18-07-2026  13:45             1,601 urls.py
+18-07-2026  13:45             3,455 virtualenv.py
+18-07-2026  13:45             4,468 wheel.py
+18-07-2026  13:45             3,350 _jaraco_text.py
+18-07-2026  13:45             1,015 _log.py
+18-07-2026  13:45                 0 __init__.py
+              26 File(s)        136,726 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_internal\vcs
+
+18-07-2026  13:45             3,734 bazaar.py
+18-07-2026  13:45            19,144 git.py
+18-07-2026  13:45             5,575 mercurial.py
+18-07-2026  13:45            11,787 subversion.py
+18-07-2026  13:45            22,599 versioncontrol.py
+18-07-2026  13:45               596 __init__.py
+               6 File(s)         63,435 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor
+
+18-07-2026  13:45             4,907 __init__.py
+               1 File(s)          4,907 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\cachecontrol
+
+18-07-2026  13:45             6,586 adapter.py
+18-07-2026  13:45             1,953 cache.py
+18-07-2026  13:45            19,102 controller.py
+18-07-2026  13:45             4,354 filewrapper.py
+18-07-2026  13:45             4,881 heuristics.py
+18-07-2026  13:45             5,163 serialize.py
+18-07-2026  13:45             1,417 wrapper.py
+18-07-2026  13:45             1,737 _cmd.py
+18-07-2026  13:45               820 __init__.py
+               9 File(s)         46,013 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+
+18-07-2026  13:45             4,117 file_cache.py
+18-07-2026  13:45             1,386 redis_cache.py
+18-07-2026  13:45               303 __init__.py
+               3 File(s)          5,806 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\certifi
+
+18-07-2026  13:45             3,442 core.py
+18-07-2026  13:45                94 __init__.py
+18-07-2026  13:45               255 __main__.py
+               3 File(s)          3,791 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\distlib
+
+18-07-2026  13:45            41,467 compat.py
+18-07-2026  13:45            10,820 resources.py
+18-07-2026  13:45            18,612 scripts.py
+18-07-2026  13:45            66,682 util.py
+18-07-2026  13:45               625 __init__.py
+               5 File(s)        138,206 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\distro
+
+18-07-2026  13:45            49,430 distro.py
+18-07-2026  13:45               981 __init__.py
+18-07-2026  13:45                64 __main__.py
+               3 File(s)         50,475 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\idna
+
+18-07-2026  13:45             3,438 codec.py
+18-07-2026  13:45               316 compat.py
+18-07-2026  13:45            13,246 core.py
+18-07-2026  13:45            79,623 idnadata.py
+18-07-2026  13:45             1,898 intranges.py
+18-07-2026  13:45                21 package_data.py
+18-07-2026  13:45           243,725 uts46data.py
+18-07-2026  13:45               868 __init__.py
+               8 File(s)        343,135 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\msgpack
+
+18-07-2026  13:45             1,081 exceptions.py
+18-07-2026  13:45             5,726 ext.py
+18-07-2026  13:45            32,390 fallback.py
+18-07-2026  13:45             1,109 __init__.py
+               4 File(s)         40,306 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\packaging
+
+18-07-2026  13:45            10,218 dependency_groups.py
+18-07-2026  13:45            10,917 direct_url.py
+18-07-2026  13:45             2,680 errors.py
+18-07-2026  13:45            17,067 markers.py
+18-07-2026  13:45            38,770 metadata.py
+18-07-2026  13:45            33,890 pylock.py
+18-07-2026  13:45             4,395 requirements.py
+18-07-2026  13:45            71,550 specifiers.py
+18-07-2026  13:45            34,236 tags.py
+18-07-2026  13:45             9,848 utils.py
+18-07-2026  13:45            38,393 version.py
+18-07-2026  13:45             3,211 _elffile.py
+18-07-2026  13:45             9,559 _manylinux.py
+18-07-2026  13:45             2,707 _musllinux.py
+18-07-2026  13:45            11,698 _parser.py
+18-07-2026  13:45             1,109 _structures.py
+18-07-2026  13:45             5,391 _tokenizer.py
+18-07-2026  13:45               494 __init__.py
+              18 File(s)        306,133 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\packaging\licenses
+
+18-07-2026  13:45            51,122 _spdx.py
+18-07-2026  13:45             7,293 __init__.py
+               2 File(s)         58,415 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pkg_resources
+
+18-07-2026  13:45           124,451 __init__.py
+               1 File(s)        124,451 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\platformdirs
+
+18-07-2026  13:45             9,013 android.py
+18-07-2026  13:45             9,281 api.py
+18-07-2026  13:45             6,322 macos.py
+18-07-2026  13:45            10,458 unix.py
+18-07-2026  13:45               704 version.py
+18-07-2026  13:45            10,362 windows.py
+18-07-2026  13:45            22,344 __init__.py
+18-07-2026  13:45             1,505 __main__.py
+               8 File(s)         69,989 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pygments
+
+18-07-2026  13:45             1,718 console.py
+18-07-2026  13:45             1,910 filter.py
+18-07-2026  13:45             4,390 formatter.py
+18-07-2026  13:45            35,349 lexer.py
+18-07-2026  13:45             1,005 modeline.py
+18-07-2026  13:45             1,891 plugin.py
+18-07-2026  13:45             3,072 regexopt.py
+18-07-2026  13:45             3,092 scanner.py
+18-07-2026  13:45             7,981 sphinxext.py
+18-07-2026  13:45             6,420 style.py
+18-07-2026  13:45             6,226 token.py
+18-07-2026  13:45            63,208 unistring.py
+18-07-2026  13:45            10,031 util.py
+18-07-2026  13:45             2,983 __init__.py
+18-07-2026  13:45               353 __main__.py
+              15 File(s)        149,629 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pygments\filters
+
+18-07-2026  13:45            40,392 __init__.py
+               1 File(s)         40,392 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+
+18-07-2026  13:45             4,176 _mapping.py
+18-07-2026  13:45             5,385 __init__.py
+               2 File(s)          9,561 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pygments\lexers
+
+18-07-2026  13:45            53,853 python.py
+18-07-2026  13:45            77,602 _mapping.py
+18-07-2026  13:45            12,115 __init__.py
+               3 File(s)        143,570 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pygments\styles
+
+18-07-2026  13:45             3,312 _mapping.py
+18-07-2026  13:45             2,042 __init__.py
+               2 File(s)          5,354 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+
+18-07-2026  13:45            14,936 _impl.py
+18-07-2026  13:45               691 __init__.py
+               2 File(s)         15,627 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process
+
+18-07-2026  13:45            12,216 _in_process.py
+18-07-2026  13:45               557 __init__.py
+               2 File(s)         12,773 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\requests
+
+18-07-2026  13:45            26,292 adapters.py
+18-07-2026  13:45             6,449 api.py
+18-07-2026  13:45            10,170 auth.py
+18-07-2026  13:45               442 certs.py
+18-07-2026  13:45             1,822 compat.py
+18-07-2026  13:45            18,590 cookies.py
+18-07-2026  13:45             4,273 exceptions.py
+18-07-2026  13:45             3,740 help.py
+18-07-2026  13:45               734 hooks.py
+18-07-2026  13:45            35,530 models.py
+18-07-2026  13:45             1,057 packages.py
+18-07-2026  13:45            30,645 sessions.py
+18-07-2026  13:45             4,322 status_codes.py
+18-07-2026  13:45             2,912 structures.py
+18-07-2026  13:45            32,978 utils.py
+18-07-2026  13:45             1,502 _internal_utils.py
+18-07-2026  13:45             5,029 __init__.py
+18-07-2026  13:45               435 __version__.py
+              18 File(s)        186,922 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\resolvelib
+
+18-07-2026  13:45             8,914 providers.py
+18-07-2026  13:45             2,037 reporters.py
+18-07-2026  13:45             6,420 structs.py
+18-07-2026  13:45               541 __init__.py
+               4 File(s)         17,912 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers
+
+18-07-2026  13:45             1,543 abstract.py
+18-07-2026  13:45             1,768 criterion.py
+18-07-2026  13:45             1,768 exceptions.py
+18-07-2026  13:45            24,212 resolution.py
+18-07-2026  13:45               640 __init__.py
+               5 File(s)         29,931 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\rich
+
+18-07-2026  13:45               890 abc.py
+18-07-2026  13:45            10,324 align.py
+18-07-2026  13:45             6,921 ansi.py
+18-07-2026  13:45             3,263 bar.py
+18-07-2026  13:45            10,686 box.py
+18-07-2026  13:45             5,130 cells.py
+18-07-2026  13:45            18,211 color.py
+18-07-2026  13:45             1,054 color_triplet.py
+18-07-2026  13:45             7,131 columns.py
+18-07-2026  13:45           100,849 console.py
+18-07-2026  13:45             1,288 constrain.py
+18-07-2026  13:45             5,502 containers.py
+18-07-2026  13:45             6,487 control.py
+18-07-2026  13:45             8,257 default_styles.py
+18-07-2026  13:45             1,025 diagnose.py
+18-07-2026  13:45             2,367 emoji.py
+18-07-2026  13:45               642 errors.py
+18-07-2026  13:45             2,484 filesize.py
+18-07-2026  13:45             1,683 file_proxy.py
+18-07-2026  13:45             9,586 highlighter.py
+18-07-2026  13:45             5,031 json.py
+18-07-2026  13:45             3,252 jupyter.py
+18-07-2026  13:45            14,004 layout.py
+18-07-2026  13:45            15,180 live.py
+18-07-2026  13:45             3,521 live_render.py
+18-07-2026  13:45            12,468 logging.py
+18-07-2026  13:45             8,451 markup.py
+18-07-2026  13:45             5,305 measure.py
+18-07-2026  13:45             4,908 padding.py
+18-07-2026  13:45               828 pager.py
+18-07-2026  13:45             3,396 palette.py
+18-07-2026  13:45            11,157 panel.py
+18-07-2026  13:45            36,391 pretty.py
+18-07-2026  13:45            60,408 progress.py
+18-07-2026  13:45             8,162 progress_bar.py
+18-07-2026  13:45            12,447 prompt.py
+18-07-2026  13:45             1,391 protocol.py
+18-07-2026  13:45               166 region.py
+18-07-2026  13:45             4,431 repr.py
+18-07-2026  13:45             4,602 rule.py
+18-07-2026  13:45             2,843 scope.py
+18-07-2026  13:45             1,591 screen.py
+18-07-2026  13:45            24,743 segment.py
+18-07-2026  13:45             4,214 spinner.py
+18-07-2026  13:45             4,424 status.py
+18-07-2026  13:45            26,990 style.py
+18-07-2026  13:45             1,258 styled.py
+18-07-2026  13:45            36,371 syntax.py
+18-07-2026  13:45            40,049 table.py
+18-07-2026  13:45             3,370 terminal_theme.py
+18-07-2026  13:45            47,552 text.py
+18-07-2026  13:45             3,771 theme.py
+18-07-2026  13:45               102 themes.py
+18-07-2026  13:45            35,861 traceback.py
+18-07-2026  13:45             9,451 tree.py
+18-07-2026  13:45            10,209 _cell_widths.py
+18-07-2026  13:45           140,235 _emoji_codes.py
+18-07-2026  13:45             1,064 _emoji_replace.py
+18-07-2026  13:45             2,128 _export_format.py
+18-07-2026  13:45               265 _extension.py
+18-07-2026  13:45               799 _fileno.py
+18-07-2026  13:45             9,656 _inspect.py
+18-07-2026  13:45             3,225 _log_render.py
+18-07-2026  13:45             1,236 _loop.py
+18-07-2026  13:45             1,394 _null_file.py
+18-07-2026  13:45             7,063 _palettes.py
+18-07-2026  13:45               423 _pick.py
+18-07-2026  13:45             5,325 _ratio.py
+18-07-2026  13:45            19,919 _spinners.py
+18-07-2026  13:45               351 _stack.py
+18-07-2026  13:45               417 _timer.py
+18-07-2026  13:45            22,755 _win32_console.py
+18-07-2026  13:45             1,925 _windows.py
+18-07-2026  13:45             2,783 _windows_renderer.py
+18-07-2026  13:45             3,404 _wrap.py
+18-07-2026  13:45             6,090 __init__.py
+18-07-2026  13:45             7,896 __main__.py
+              77 File(s)        910,431 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\tomli
+
+18-07-2026  13:45            26,232 _parser.py
+18-07-2026  13:45             3,235 _re.py
+18-07-2026  13:45               254 _types.py
+18-07-2026  13:45               314 __init__.py
+               4 File(s)         30,035 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\tomli_w
+
+18-07-2026  13:45             6,961 _writer.py
+18-07-2026  13:45               169 __init__.py
+               2 File(s)          7,130 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\truststore
+
+18-07-2026  13:45            11,413 _api.py
+18-07-2026  13:45            20,503 _macos.py
+18-07-2026  13:45             2,412 _openssl.py
+18-07-2026  13:45             1,130 _ssl_constants.py
+18-07-2026  13:45            17,993 _windows.py
+18-07-2026  13:45             1,320 __init__.py
+               6 File(s)         54,771 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\urllib3
+
+18-07-2026  13:45            42,800 connection.py
+18-07-2026  13:45            43,371 connectionpool.py
+18-07-2026  13:45             9,952 exceptions.py
+18-07-2026  13:45            10,829 fields.py
+18-07-2026  13:45             2,388 filepost.py
+18-07-2026  13:45            23,845 poolmanager.py
+18-07-2026  13:45            52,743 response.py
+18-07-2026  13:45             5,568 _base_connection.py
+18-07-2026  13:45            17,595 _collections.py
+18-07-2026  13:45             9,931 _request_methods.py
+18-07-2026  13:45               704 _version.py
+18-07-2026  13:45             6,979 __init__.py
+              12 File(s)        226,705 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+
+18-07-2026  13:45            19,750 pyopenssl.py
+18-07-2026  13:45             7,547 socks.py
+18-07-2026  13:45                 0 __init__.py
+               3 File(s)         27,297 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\emscripten
+
+18-07-2026  13:45             8,960 connection.py
+18-07-2026  13:45            23,520 fetch.py
+18-07-2026  13:45               566 request.py
+18-07-2026  13:45             9,507 response.py
+18-07-2026  13:45               870 __init__.py
+               5 File(s)         43,423 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\urllib3\http2
+
+18-07-2026  13:45            12,578 connection.py
+18-07-2026  13:45             3,014 probe.py
+18-07-2026  13:45             1,741 __init__.py
+               3 File(s)         17,333 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pip\_vendor\urllib3\util
+
+18-07-2026  13:45             4,444 connection.py
+18-07-2026  13:45             1,148 proxy.py
+18-07-2026  13:45             8,086 request.py
+18-07-2026  13:45             3,374 response.py
+18-07-2026  13:45            19,235 retry.py
+18-07-2026  13:45             8,847 ssltransport.py
+18-07-2026  13:45            19,929 ssl_.py
+18-07-2026  13:45             5,845 ssl_match_hostname.py
+18-07-2026  13:45            10,363 timeout.py
+18-07-2026  13:45            15,256 url.py
+18-07-2026  13:45             1,146 util.py
+18-07-2026  13:45             4,423 wait.py
+18-07-2026  13:45             1,001 __init__.py
+              13 File(s)        103,097 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\psutil
+
+19-07-2026  10:01            26,115 _common.py
+19-07-2026  10:01            11,399 _ntuples.py
+19-07-2026  10:01            18,162 _psaix.py
+19-07-2026  10:01            30,167 _psbsd.py
+19-07-2026  10:01            87,056 _pslinux.py
+19-07-2026  10:01            16,462 _psosx.py
+19-07-2026  10:01            11,938 _psposix.py
+19-07-2026  10:01            24,638 _pssunos.py
+19-07-2026  10:01            36,466 _pswindows.py
+19-07-2026  10:01            92,363 __init__.py
+              10 File(s)        354,766 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pydantic
+
+19-07-2026  09:51             4,937 aliases.py
+19-07-2026  09:51             2,124 alias_generators.py
+19-07-2026  09:51             4,407 annotated_handlers.py
+19-07-2026  09:51               148 class_validators.py
+19-07-2026  09:51            21,481 color.py
+19-07-2026  09:51            44,533 config.py
+19-07-2026  09:51            18,963 dataclasses.py
+19-07-2026  09:51               150 datetime_parse.py
+19-07-2026  09:51               145 decorator.py
+19-07-2026  09:51               148 env_settings.py
+19-07-2026  09:51             6,013 errors.py
+19-07-2026  09:51               150 error_wrappers.py
+19-07-2026  09:51            82,023 fields.py
+19-07-2026  09:51            18,117 functional_serializers.py
+19-07-2026  09:51            31,724 functional_validators.py
+19-07-2026  09:51               144 generics.py
+19-07-2026  09:51               140 json.py
+19-07-2026  09:51           125,955 json_schema.py
+19-07-2026  09:51            85,334 main.py
+19-07-2026  09:51            60,971 mypy.py
+19-07-2026  09:51            42,102 networks.py
+19-07-2026  09:51               141 parse.py
+19-07-2026  09:51             6,394 root_model.py
+19-07-2026  09:51               142 schema.py
+19-07-2026  09:51               141 tools.py
+19-07-2026  09:51           105,961 types.py
+19-07-2026  09:51            36,123 type_adapter.py
+19-07-2026  09:51               138 typing.py
+19-07-2026  09:51               141 utils.py
+19-07-2026  09:51             4,416 validate_call_decorator.py
+19-07-2026  09:51               146 validators.py
+19-07-2026  09:51             3,985 version.py
+19-07-2026  09:51             4,822 warnings.py
+19-07-2026  09:51            12,160 _migration.py
+19-07-2026  09:51            15,812 __init__.py
+              35 File(s)        740,231 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pydantic\deprecated
+
+19-07-2026  09:51            10,281 class_validators.py
+19-07-2026  09:51             2,663 config.py
+19-07-2026  09:51             7,618 copy_internals.py
+19-07-2026  09:51            10,845 decorator.py
+19-07-2026  09:51             4,657 json.py
+19-07-2026  09:51             2,511 parse.py
+19-07-2026  09:51             3,330 tools.py
+19-07-2026  09:51                 0 __init__.py
+               8 File(s)         41,905 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pydantic\experimental
+
+19-07-2026  09:51             1,866 arguments_schema.py
+19-07-2026  09:51               127 missing_sentinel.py
+19-07-2026  09:51            23,956 pipeline.py
+19-07-2026  09:51               104 __init__.py
+               4 File(s)         26,053 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pydantic\plugin
+
+19-07-2026  09:51             2,213 _loader.py
+19-07-2026  09:51             5,445 _schema_validator.py
+19-07-2026  09:51             7,333 __init__.py
+               3 File(s)         14,991 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pydantic\v1
+
+19-07-2026  09:51             3,157 annotated_types.py
+19-07-2026  09:51            14,672 class_validators.py
+19-07-2026  09:51            16,844 color.py
+19-07-2026  09:51             6,532 config.py
+19-07-2026  09:51            18,172 dataclasses.py
+19-07-2026  09:51             7,724 datetime_parse.py
+19-07-2026  09:51            10,339 decorator.py
+19-07-2026  09:51            14,105 env_settings.py
+19-07-2026  09:51            17,726 errors.py
+19-07-2026  09:51             5,196 error_wrappers.py
+19-07-2026  09:51            50,649 fields.py
+19-07-2026  09:51            17,829 generics.py
+19-07-2026  09:51             3,390 json.py
+19-07-2026  09:51            45,697 main.py
+19-07-2026  09:51            38,860 mypy.py
+19-07-2026  09:51            22,124 networks.py
+19-07-2026  09:51             1,821 parse.py
+19-07-2026  09:51            47,801 schema.py
+19-07-2026  09:51             2,881 tools.py
+19-07-2026  09:51            35,455 types.py
+19-07-2026  09:51            20,102 typing.py
+19-07-2026  09:51            26,014 utils.py
+19-07-2026  09:51            22,187 validators.py
+19-07-2026  09:51             1,039 version.py
+19-07-2026  09:51            14,847 _hypothesis_plugin.py
+19-07-2026  09:51             2,946 __init__.py
+              26 File(s)        468,109 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pydantic\_internal
+
+19-07-2026  09:51            14,839 _config.py
+19-07-2026  09:51             5,162 _core_metadata.py
+19-07-2026  09:51             6,487 _core_utils.py
+19-07-2026  09:51            13,188 _dataclasses.py
+19-07-2026  09:51            33,620 _decorators.py
+19-07-2026  09:51             6,185 _decorators_v1.py
+19-07-2026  09:51            26,255 _discriminated_union.py
+19-07-2026  09:51             4,127 _docs_extraction.py
+19-07-2026  09:51            31,557 _fields.py
+19-07-2026  09:51               611 _forward_ref.py
+19-07-2026  09:51           136,348 _generate_schema.py
+19-07-2026  09:51            23,393 _generics.py
+19-07-2026  09:51               809 _git.py
+19-07-2026  09:51               402 _import_utils.py
+19-07-2026  09:51               144 _internal_dataclass.py
+19-07-2026  09:51            16,805 _known_annotated_metadata.py
+19-07-2026  09:51             8,885 _mock_val_ser.py
+19-07-2026  09:51            38,928 _model_construction.py
+19-07-2026  09:51            12,878 _namespace_utils.py
+19-07-2026  09:51             5,172 _repr.py
+19-07-2026  09:51             9,052 _schema_gather.py
+19-07-2026  09:51             4,842 _schema_generation_shared.py
+19-07-2026  09:51             1,491 _serializers.py
+19-07-2026  09:51             6,808 _signature.py
+19-07-2026  09:51            31,574 _typing_extra.py
+19-07-2026  09:51            15,959 _utils.py
+19-07-2026  09:51             5,366 _validate_call.py
+19-07-2026  09:51            20,563 _validators.py
+19-07-2026  09:51                 0 __init__.py
+              29 File(s)        481,450 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\pydantic_core
+
+19-07-2026  09:51           160,035 core_schema.py
+19-07-2026  09:51             5,286 __init__.py
+               2 File(s)        165,321 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy
+
+19-07-2026  10:21               542 events.py
+19-07-2026  10:21            24,812 exc.py
+19-07-2026  10:21             5,239 inspection.py
+19-07-2026  10:21             8,898 log.py
+19-07-2026  10:21             3,320 schema.py
+19-07-2026  10:21             3,238 types.py
+19-07-2026  10:21            12,942 __init__.py
+               7 File(s)         58,991 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\connectors
+
+19-07-2026  10:21             6,046 aioodbc.py
+19-07-2026  10:21            13,486 asyncio.py
+19-07-2026  10:21             8,868 pyodbc.py
+19-07-2026  10:21               494 __init__.py
+               4 File(s)         28,894 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\cyextension
+
+19-07-2026  10:21               250 __init__.py
+               1 File(s)            250 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\dialects
+
+19-07-2026  10:21               999 _typing.py
+19-07-2026  10:21             1,860 __init__.py
+               2 File(s)          2,859 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\dialects\mssql
+
+19-07-2026  10:21             2,084 aioodbc.py
+19-07-2026  10:21           139,250 base.py
+19-07-2026  10:21             9,246 information_schema.py
+19-07-2026  10:21             4,885 json.py
+19-07-2026  10:21             6,665 provision.py
+19-07-2026  10:21             4,225 pymssql.py
+19-07-2026  10:21            27,931 pyodbc.py
+19-07-2026  10:21             1,966 __init__.py
+               8 File(s)        196,252 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\dialects\mysql
+
+19-07-2026  10:21             8,961 aiomysql.py
+19-07-2026  10:21             8,305 asyncmy.py
+19-07-2026  10:21           142,552 base.py
+19-07-2026  10:21             3,323 cymysql.py
+19-07-2026  10:21             7,991 dml.py
+19-07-2026  10:21            10,574 enumerated.py
+19-07-2026  10:21             4,387 expression.py
+19-07-2026  10:21             2,897 json.py
+19-07-2026  10:21             1,916 mariadb.py
+19-07-2026  10:21            10,709 mariadbconnector.py
+19-07-2026  10:21            10,403 mysqlconnector.py
+19-07-2026  10:21            10,259 mysqldb.py
+19-07-2026  10:21             4,969 provision.py
+19-07-2026  10:21             5,839 pymysql.py
+19-07-2026  10:21             5,270 pyodbc.py
+19-07-2026  10:21            25,443 reflection.py
+19-07-2026  10:21             9,806 reserved_words.py
+19-07-2026  10:21            27,294 types.py
+19-07-2026  10:21             2,310 __init__.py
+              19 File(s)        303,208 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\dialects\oracle
+
+19-07-2026  10:21           143,146 base.py
+19-07-2026  10:21            58,274 cx_oracle.py
+19-07-2026  10:21            20,026 dictionary.py
+19-07-2026  10:21            34,513 oracledb.py
+19-07-2026  10:21            11,328 provision.py
+19-07-2026  10:21             9,374 types.py
+19-07-2026  10:21            11,178 vector.py
+19-07-2026  10:21             1,979 __init__.py
+               8 File(s)        289,818 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql
+
+19-07-2026  10:21            17,798 array.py
+19-07-2026  10:21            42,337 asyncpg.py
+19-07-2026  10:21           198,636 base.py
+19-07-2026  10:21            12,463 dml.py
+19-07-2026  10:21            18,241 ext.py
+19-07-2026  10:21            12,338 hstore.py
+19-07-2026  10:21            15,033 json.py
+19-07-2026  10:21            18,336 named_types.py
+19-07-2026  10:21             2,935 operators.py
+19-07-2026  10:21            19,372 pg8000.py
+19-07-2026  10:21            10,325 pg_catalog.py
+19-07-2026  10:21             6,135 provision.py
+19-07-2026  10:21            26,654 psycopg.py
+19-07-2026  10:21            32,027 psycopg2.py
+19-07-2026  10:21             1,819 psycopg2cffi.py
+19-07-2026  10:21            33,977 ranges.py
+19-07-2026  10:21             7,942 types.py
+19-07-2026  10:21             7,190 _psycopg_common.py
+19-07-2026  10:21             4,057 __init__.py
+              19 File(s)        487,615 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\dialects\sqlite
+
+19-07-2026  10:21            16,517 aiosqlite.py
+19-07-2026  10:21           110,392 base.py
+19-07-2026  10:21             9,401 dml.py
+19-07-2026  10:21             2,869 json.py
+19-07-2026  10:21             6,939 provision.py
+19-07-2026  10:21             5,641 pysqlcipher.py
+19-07-2026  10:21            28,549 pysqlite.py
+19-07-2026  10:21             1,239 __init__.py
+               8 File(s)        181,547 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\engine
+
+19-07-2026  10:21           127,256 base.py
+19-07-2026  10:21             4,920 characteristics.py
+19-07-2026  10:21            35,076 create.py
+19-07-2026  10:21            83,401 cursor.py
+19-07-2026  10:21            88,290 default.py
+19-07-2026  10:21            38,365 events.py
+19-07-2026  10:21           118,855 interfaces.py
+19-07-2026  10:21             4,288 mock.py
+19-07-2026  10:21             2,442 processors.py
+19-07-2026  10:21            77,669 reflection.py
+19-07-2026  10:21            82,886 result.py
+19-07-2026  10:21            12,431 row.py
+19-07-2026  10:21               455 strategies.py
+19-07-2026  10:21            31,991 url.py
+19-07-2026  10:21             5,849 util.py
+19-07-2026  10:21             3,878 _py_processors.py
+19-07-2026  10:21             3,915 _py_row.py
+19-07-2026  10:21             2,539 _py_util.py
+19-07-2026  10:21             2,880 __init__.py
+              19 File(s)        727,386 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\event
+
+19-07-2026  10:21             8,329 api.py
+19-07-2026  10:21            22,267 attr.py
+19-07-2026  10:21            15,728 base.py
+19-07-2026  10:21             8,717 legacy.py
+19-07-2026  10:21            11,536 registry.py
+19-07-2026  10:21             1,092 __init__.py
+               6 File(s)         67,669 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\ext
+
+19-07-2026  10:21            68,472 associationproxy.py
+19-07-2026  10:21            63,378 automap.py
+19-07-2026  10:21            18,321 baked.py
+19-07-2026  10:21            21,491 compiler.py
+19-07-2026  10:21            17,172 horizontal_shard.py
+19-07-2026  10:21            54,168 hybrid.py
+19-07-2026  10:21            12,126 indexable.py
+19-07-2026  10:21            16,157 instrumentation.py
+19-07-2026  10:21            38,316 mutable.py
+19-07-2026  10:21            15,604 orderinglist.py
+19-07-2026  10:21             6,352 serializer.py
+19-07-2026  10:21               331 __init__.py
+              12 File(s)        331,888 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\ext\asyncio
+
+19-07-2026  10:21             9,315 base.py
+19-07-2026  10:21            49,954 engine.py
+19-07-2026  10:21               660 exc.py
+19-07-2026  10:21            31,624 result.py
+19-07-2026  10:21            53,685 scoping.py
+19-07-2026  10:21            65,204 session.py
+19-07-2026  10:21             1,342 __init__.py
+               7 File(s)        211,784 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\ext\declarative
+
+19-07-2026  10:21            20,097 extensions.py
+19-07-2026  10:21             1,883 __init__.py
+               2 File(s)         21,980 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\ext\mypy
+
+19-07-2026  10:21            10,915 apply.py
+19-07-2026  10:21            17,899 decl_class.py
+19-07-2026  10:21            19,957 infer.py
+19-07-2026  10:21            10,815 names.py
+19-07-2026  10:21            10,055 plugin.py
+19-07-2026  10:21            10,317 util.py
+19-07-2026  10:21               247 __init__.py
+               7 File(s)         80,205 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\future
+
+19-07-2026  10:21               510 engine.py
+19-07-2026  10:21               530 __init__.py
+               2 File(s)          1,040 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\orm
+
+19-07-2026  10:21            95,962 attributes.py
+19-07-2026  10:21            28,472 base.py
+19-07-2026  10:21            75,118 bulk_persistence.py
+19-07-2026  10:21            18,523 clsregistry.py
+19-07-2026  10:21            53,910 collections.py
+19-07-2026  10:21           118,414 context.py
+19-07-2026  10:21            69,959 decl_api.py
+19-07-2026  10:21            85,708 decl_base.py
+19-07-2026  10:21            48,919 dependency.py
+19-07-2026  10:21            38,887 descriptor_props.py
+19-07-2026  10:21            10,255 dynamic.py
+19-07-2026  10:21            12,730 evaluator.py
+19-07-2026  10:21           130,485 events.py
+19-07-2026  10:21             7,873 exc.py
+19-07-2026  10:21             9,551 identity.py
+19-07-2026  10:21            25,073 instrumentation.py
+19-07-2026  10:21            50,569 interfaces.py
+19-07-2026  10:21            60,170 loading.py
+19-07-2026  10:21            20,291 mapped_collection.py
+19-07-2026  10:21           176,600 mapper.py
+19-07-2026  10:21            27,537 path_registry.py
+19-07-2026  10:21            63,602 persistence.py
+19-07-2026  10:21            32,131 properties.py
+19-07-2026  10:21           122,506 query.py
+19-07-2026  10:21           132,731 relationships.py
+19-07-2026  10:21            80,255 scoping.py
+19-07-2026  10:21           201,877 session.py
+19-07-2026  10:21            39,601 state.py
+19-07-2026  10:21             7,012 state_changes.py
+19-07-2026  10:21           123,896 strategies.py
+19-07-2026  10:21            88,917 strategy_options.py
+19-07-2026  10:21             5,943 sync.py
+19-07-2026  10:21            27,823 unitofwork.py
+19-07-2026  10:21            83,405 util.py
+19-07-2026  10:21            22,971 writeonly.py
+19-07-2026  10:21           108,260 _orm_constructors.py
+19-07-2026  10:21             5,152 _typing.py
+19-07-2026  10:21             8,699 __init__.py
+              38 File(s)      2,319,787 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\pool
+
+19-07-2026  10:21            54,112 base.py
+19-07-2026  10:21            13,830 events.py
+19-07-2026  10:21            19,896 impl.py
+19-07-2026  10:21             1,848 __init__.py
+               4 File(s)         89,686 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\sql
+
+19-07-2026  10:21            18,942 annotation.py
+19-07-2026  10:21            81,268 base.py
+19-07-2026  10:21            34,710 cache_key.py
+19-07-2026  10:21            42,186 coercions.py
+19-07-2026  10:21           294,332 compiler.py
+19-07-2026  10:21            61,633 crud.py
+19-07-2026  10:21            49,439 ddl.py
+19-07-2026  10:21            17,257 default_comparator.py
+19-07-2026  10:21            68,573 dml.py
+19-07-2026  10:21           185,488 elements.py
+19-07-2026  10:21            18,770 events.py
+19-07-2026  10:21             7,740 expression.py
+19-07-2026  10:21            70,851 functions.py
+19-07-2026  10:21            50,832 lambdas.py
+19-07-2026  10:21             7,064 naming.py
+19-07-2026  10:21            79,415 operators.py
+19-07-2026  10:21             7,985 roles.py
+19-07-2026  10:21           236,782 schema.py
+19-07-2026  10:21           251,387 selectable.py
+19-07-2026  10:21           136,089 sqltypes.py
+19-07-2026  10:21            34,686 traversals.py
+19-07-2026  10:21            87,793 type_api.py
+19-07-2026  10:21            49,595 util.py
+19-07-2026  10:21            37,481 visitors.py
+19-07-2026  10:21             3,927 _dml_constructors.py
+19-07-2026  10:21            64,968 _elements_constructors.py
+19-07-2026  10:21               643 _orm_types.py
+19-07-2026  10:21             2,246 _py_util.py
+19-07-2026  10:21            22,985 _selectable_constructors.py
+19-07-2026  10:21            13,925 _typing.py
+19-07-2026  10:21             5,965 __init__.py
+              31 File(s)      2,044,957 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\testing
+
+19-07-2026  10:21            32,698 assertions.py
+19-07-2026  10:21            17,420 assertsql.py
+19-07-2026  10:21             3,965 asyncio.py
+19-07-2026  10:21            12,804 config.py
+19-07-2026  10:21            14,363 engines.py
+19-07-2026  10:21             3,471 entities.py
+19-07-2026  10:21            14,180 exclusions.py
+19-07-2026  10:21             2,988 pickleable.py
+19-07-2026  10:21            10,637 profiling.py
+19-07-2026  10:21            18,120 provision.py
+19-07-2026  10:21            58,416 requirements.py
+19-07-2026  10:21             5,558 schema.py
+19-07-2026  10:21            15,059 util.py
+19-07-2026  10:21             1,598 warnings.py
+19-07-2026  10:21             3,256 __init__.py
+              15 File(s)        214,533 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\testing\fixtures
+
+19-07-2026  10:21            13,206 base.py
+19-07-2026  10:21            13,217 mypy.py
+19-07-2026  10:21             6,322 orm.py
+19-07-2026  10:21            15,556 sql.py
+19-07-2026  10:21             1,226 __init__.py
+               5 File(s)         49,527 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\testing\plugin
+
+19-07-2026  10:21             1,734 bootstrap.py
+19-07-2026  10:21            23,930 plugin_base.py
+19-07-2026  10:21            29,381 pytestplugin.py
+19-07-2026  10:21               253 __init__.py
+               4 File(s)         55,298 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\testing\suite
+
+19-07-2026  10:21             7,513 test_cte.py
+19-07-2026  10:21            12,448 test_ddl.py
+19-07-2026  10:21             5,490 test_deprecations.py
+19-07-2026  10:21            24,991 test_dialect.py
+19-07-2026  10:21            19,454 test_insert.py
+19-07-2026  10:21           123,617 test_reflection.py
+19-07-2026  10:21            17,546 test_results.py
+19-07-2026  10:21             8,158 test_rowcount.py
+19-07-2026  10:21            64,264 test_select.py
+19-07-2026  10:21            10,296 test_sequence.py
+19-07-2026  10:21            70,206 test_types.py
+19-07-2026  10:21             6,330 test_unicode_ddl.py
+19-07-2026  10:21             4,147 test_update_delete.py
+19-07-2026  10:21               741 __init__.py
+              14 File(s)        375,201 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\sqlalchemy\util
+
+19-07-2026  10:21            13,315 compat.py
+19-07-2026  10:21             3,460 concurrency.py
+19-07-2026  10:21            12,413 deprecations.py
+19-07-2026  10:21            67,189 langhelpers.py
+19-07-2026  10:21             6,056 preloaded.py
+19-07-2026  10:21            10,507 queue.py
+19-07-2026  10:21             6,338 tool_support.py
+19-07-2026  10:21             3,571 topological.py
+19-07-2026  10:21            23,251 typing.py
+19-07-2026  10:21            20,723 _collections.py
+19-07-2026  10:21             9,458 _concurrency_py3k.py
+19-07-2026  10:21             1,287 _has_cy.py
+19-07-2026  10:21            17,427 _py_collections.py
+19-07-2026  10:21             8,563 __init__.py
+              14 File(s)        203,558 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\starlette
+
+19-07-2026  09:51             5,291 applications.py
+19-07-2026  09:51             5,202 authentication.py
+19-07-2026  09:51             1,122 background.py
+19-07-2026  09:51             1,701 concurrency.py
+19-07-2026  09:51             4,426 config.py
+19-07-2026  09:51             2,304 convertors.py
+19-07-2026  09:51            23,213 datastructures.py
+19-07-2026  09:51             5,271 endpoints.py
+19-07-2026  09:51             1,478 exceptions.py
+19-07-2026  09:51            12,079 formparsers.py
+19-07-2026  09:51            12,708 requests.py
+19-07-2026  09:51            21,731 responses.py
+19-07-2026  09:51            29,579 routing.py
+19-07-2026  09:51             5,168 schemas.py
+19-07-2026  09:51             8,786 staticfiles.py
+19-07-2026  09:51             6,430 status.py
+19-07-2026  09:51             5,447 templating.py
+19-07-2026  09:51            28,356 testclient.py
+19-07-2026  09:51             1,041 types.py
+19-07-2026  09:51             8,352 websockets.py
+19-07-2026  09:51             2,257 _exception_handler.py
+19-07-2026  09:51             2,970 _utils.py
+19-07-2026  09:51                22 __init__.py
+              23 File(s)        194,934 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\starlette\middleware
+
+19-07-2026  09:51             1,800 authentication.py
+19-07-2026  09:51            10,326 base.py
+19-07-2026  09:51             7,509 cors.py
+19-07-2026  09:51             8,101 errors.py
+19-07-2026  09:51             2,784 exceptions.py
+19-07-2026  09:51             5,899 gzip.py
+19-07-2026  09:51               848 httpsredirect.py
+19-07-2026  09:51             4,778 sessions.py
+19-07-2026  09:51             2,219 trustedhost.py
+19-07-2026  09:51             5,501 wsgi.py
+19-07-2026  09:51             1,349 __init__.py
+              11 File(s)         51,114 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\typing_inspection
+
+19-07-2026  09:51            22,534 introspection.py
+19-07-2026  09:51            17,166 typing_objects.py
+19-07-2026  09:51                 0 __init__.py
+               3 File(s)         39,700 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn
+
+19-07-2026  09:51            24,495 config.py
+19-07-2026  09:51             1,128 importer.py
+19-07-2026  09:51             4,256 logging.py
+19-07-2026  09:51            18,812 main.py
+19-07-2026  09:51            13,382 server.py
+19-07-2026  09:51             3,873 workers.py
+19-07-2026  09:51               617 _ansi.py
+19-07-2026  09:51             2,916 _compat.py
+19-07-2026  09:51             2,776 _subprocess.py
+19-07-2026  09:51             7,677 _types.py
+19-07-2026  09:51               147 __init__.py
+19-07-2026  09:51                62 __main__.py
+              12 File(s)         80,141 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn\lifespan
+
+19-07-2026  09:51               332 off.py
+19-07-2026  09:51             5,173 on.py
+19-07-2026  09:51                 0 __init__.py
+               3 File(s)          5,505 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn\loops
+
+19-07-2026  09:51               333 asyncio.py
+19-07-2026  09:51               566 auto.py
+19-07-2026  09:51               236 uvloop.py
+19-07-2026  09:51                 0 __init__.py
+               4 File(s)          1,135 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn\middleware
+
+19-07-2026  09:51               394 asgi2.py
+19-07-2026  09:51             2,859 message_logger.py
+19-07-2026  09:51             7,421 proxy_headers.py
+19-07-2026  09:51             7,125 wsgi.py
+19-07-2026  09:51                 0 __init__.py
+               5 File(s)         17,799 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn\protocols
+
+19-07-2026  09:51             2,058 utils.py
+19-07-2026  09:51                 0 __init__.py
+               2 File(s)          2,058 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn\protocols\http
+
+19-07-2026  09:51               403 auto.py
+19-07-2026  09:51             1,701 flow_control.py
+19-07-2026  09:51            21,202 h11_impl.py
+19-07-2026  09:51            22,355 httptools_impl.py
+19-07-2026  09:51                 0 __init__.py
+               5 File(s)         45,661 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn\protocols\websockets
+
+19-07-2026  09:51               611 auto.py
+19-07-2026  09:51            15,176 websockets_impl.py
+19-07-2026  09:51            20,607 websockets_sansio_impl.py
+19-07-2026  09:51            19,821 wsproto_impl.py
+19-07-2026  09:51                 0 __init__.py
+               5 File(s)         56,215 bytes
+
+ Directory of D:\PythonProjects\NEXUS_AI\backend\venv\Lib\site-packages\uvicorn\supervisors
+
+19-07-2026  09:51             4,018 basereload.py
+19-07-2026  09:51            10,271 multiprocess.py
+19-07-2026  09:51             1,548 statreload.py
+19-07-2026  09:51             2,923 watchfilesreload.py
+19-07-2026  09:51               507 __init__.py
+               5 File(s)         19,267 bytes
+
+     Total Files Listed:
+            1023 File(s)     18,077,145 bytes
+               0 Dir(s)  195,271,430,144 bytes free
